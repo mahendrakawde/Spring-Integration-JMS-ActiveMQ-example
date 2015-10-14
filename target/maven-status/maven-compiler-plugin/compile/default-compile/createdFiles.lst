@@ -1,0 +1,12 @@
+com\geekcap\springintegrationexample\model\ServiceStatus.class
+com\geekcap\springintegrationexample\model\Message$MessageType.class
+com\geekcap\springintegrationexample\model\ServiceStatus$StatusType.class
+com\geekcap\springintegrationexample\service\PublishService.class
+com\geekcap\springintegrationexample\listener\MessageListenerImpl.class
+com\geekcap\springintegrationexample\model\Message.class
+com\geekcap\springintegrationexample\service\PublishServiceImpl.class
+com\geekcap\springintegrationexample\web\MessageController.class
+com\geekcap\springintegrationexample\service\RetrievePayloadService.class
+com\geekcap\springintegrationexample\web\StatusController.class
+com\geekcap\springintegrationexample\service\RetrievePayloadServiceImpl.class
+com\geekcap\springintegrationexample\listener\MessageListener.class
